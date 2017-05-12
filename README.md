@@ -4,7 +4,6 @@ An ongoing project to create a set of links to free online learning resources fo
 Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, I created this project to help guide new testers into some sort of useful curriculum and collate some existing web-based resources into lists of links.
 
 The rules I wish to implement are -
-
 1. Content must be directly relevant to testers
 1. Content must be informative and not overly "salesy"
 1. Contest must be free of charge
@@ -255,6 +254,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
   * [Perfect Software and Other Illusions about Testing by Weinberg.](https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692)
   
  * [Explore It! by Elisabeth Hendrickson.](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025)
+ 
+ * [50 Quick Ideas to Improve Your Tests by Gojko Adzic, David Evans, and Tom Roden] (https://leanpub.com/50quickideas-tests)
 
 ## Offbeat, possibly even Bonkers Stuff
 
